@@ -25,3 +25,8 @@ I build **scalable web applications** and **AI-driven solutions** with a strong 
 [![](https://visitcount.itsvg.in/api?id=Shubham1392003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📈 Contribution Graph
+
+![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubham1392003&theme=github-compact)
+
