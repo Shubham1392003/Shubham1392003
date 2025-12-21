@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Kendre</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=520&lines=AI%2FML+Developer;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=520&lines=AI%2FML+Developer;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning;Logic+lord" />
 </p>
 
 
