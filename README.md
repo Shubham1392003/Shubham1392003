@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shubham Kendre</h1>
 
+<p align="center">██████████████████████████████</p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=520&lines=AI%2FML+Developer;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning;Logic+lord" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=2300&color=7CFC00&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Full+Stack+Developer;Code+%7C+Logic+%7C+Systems;Building+High+Impact+Software" />
 </p>
+
+<p align="center">██████████████████████████████</p>
+
 
 
 ---
@@ -64,8 +69,14 @@ I build **scalable web applications** and **AI-driven solutions** with a strong 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham1392003&theme=github-compact"/>
 </p>
 
+
+
 ---
 
 <p align="center">
   <i>Focused on building impactful software and growing every day.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,100:007cff&height=120&section=footer"/>
 </p>
