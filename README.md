@@ -66,7 +66,7 @@ I build **scalable web applications** and **AI-driven solutions** with a strong 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham1392003&theme=github-compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham1392003&theme=react-dark&hide_border=true"/>
 </p>
 
 
